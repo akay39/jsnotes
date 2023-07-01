@@ -1,0 +1,2 @@
+# jsnotes
+notes for js
