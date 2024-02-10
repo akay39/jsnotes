@@ -64,7 +64,7 @@ function x(){
         }
         close(i);
     }
-    console.loh("namastte javascript")
+    console.log("namastte javascript")
 }
 x();
 */
