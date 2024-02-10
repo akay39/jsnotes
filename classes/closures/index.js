@@ -62,7 +62,7 @@ z();
 //- Module Design Patern
 //- Currying(watch another video of akshay saini)
 //-Functions like once
-//- memorize
+//- memoize
 //-maintaining state in async world
 //-setTimeouts
 //-Iterators
