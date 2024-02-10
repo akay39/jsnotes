@@ -54,6 +54,7 @@ x();
 //      5
 
 /*
+// with using var only.
 function x(){
     for (var i = 1; i<=5;i++){
         function close(i){
@@ -68,4 +69,4 @@ function x(){
 }
 x();
 */
-// with using var only.
+
