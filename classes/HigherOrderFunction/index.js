@@ -61,6 +61,8 @@ const calculate = function (radius, logic) {
     }
     return output;
 };
+// calcute function is similar as map function.i.e k/a higher order function
+
 
 console.log(calculate(radius,area));
 console.log(calculate(radius,circumference));
